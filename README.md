@@ -90,3 +90,5 @@ curl -H 'Content-Type: application/json' -XGET '127.0.0.1:9200/shakespeare/_sear
 		}
 	}
 }'
+
+# Mapping and Indexing MovieLens Data
