@@ -63,7 +63,7 @@ curl -H 'Content-Type: application/json' -XPUT '127.0.0.1:9200/shakespeare' --da
 
 POST - http://127.0.0.1:9200/shakespeare/_bulk?pretty
 
-Use binary  data as input with shakespeare_6.0.json as binary data input for uploading data.
+Use binary  data as input with shakespeare_7.0.json as binary data input for uploading data.
 
 OR
 curl -H 'Content-Type: application/json' -XPOST '127.0.0.1:9200/shakespeare/_bulk?pretty' --data-binary @shakespeare_7.0.json
