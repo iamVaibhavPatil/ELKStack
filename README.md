@@ -1,4 +1,12 @@
 # ELK Stack
+**- Elastic Search**  
+Started off as scalable Lucene  
+Horizontally scalable search engine  
+Each "shard" is an inverted index of documents  
+Can do full-text search, structured data and can aggregate data quickly  
+Often fast solution than Hadoop/Spark/Flink etc.
+
+
 
 ### Download and install the Elastic Search and start server
 /bin/elasticsearch
@@ -31,11 +39,17 @@ PUT - http://127.0.0.1:9200/shakespeare
 
 Use binary data as input with shakes-mapping.json as binary data.
 
+OR
+curl -H 'Content-Type: application/json' -XPUT '127.0.0.1:9200/shakespeare' --data-binary @shakes-mapping.json
+
 ### Upload data to Elastic search
 
 POST - http://127.0.0.1:9200/shakespeare/_bulk?pretty
 
 Use binary  data as input with shakespeare_6.0.json as binary data input for uploading data.
+
+OR
+curl -H 'Content-Type: application/json' -XPOST '127.0.0.1:9200/shakespeare/_bulk?pretty' --data-binary @shakespeare_7.0.json
 
 ### Search in document
 
@@ -51,3 +65,11 @@ Search with below query -
 	}
 }
 ```
+
+curl -H 'Content-Type: application/json' -XGET '127.0.0.1:9200/shakespeare/_search?pretty' -d '{
+	"query" : {
+		"match_phrase" : {
+			"text_entry" : "to be or not to be"
+		}
+	}
+}'
