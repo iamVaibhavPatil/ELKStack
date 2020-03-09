@@ -1,12 +1,29 @@
 # ELK Stack
 **- Elastic Search**  
-Started off as scalable Lucene  
-Horizontally scalable search engine  
-Each "shard" is an inverted index of documents  
-Can do full-text search, structured data and can aggregate data quickly  
-Often fast solution than Hadoop/Spark/Flink etc.
+1. Started off as scalable Lucene  
+2. Horizontally scalable search engine  
+3. Each "shard" is an inverted index of documents  
+4. Can do full-text search, structured data and can aggregate data quickly  
+5. Often fast solution than Hadoop/Spark/Flink etc.
 
+**- LogStash**  
+1. Ways to feed data into elastic search
+2. FileBeat can monitor log files, parse them, and import them into Elastic search in near-real-time  
+3. Logstash also pushesh data into ElasticSearch from many machines  
+4. Not just logs. It is used for variety of other data
 
+**- Kibana**  
+1. Web UI for searching and visualizing  
+2. Complex aggregations, graphs, charts  
+3. Often used for log analysis
+
+**- X-Pack**  
+1. Security  
+2. Alerting
+3. Monitoring  
+4. Reporting  
+5. Machine Learning  
+6. Graph Exploration
 
 ### Download and install the Elastic Search and start server
 /bin/elasticsearch
