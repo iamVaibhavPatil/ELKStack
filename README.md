@@ -92,3 +92,22 @@ curl -H 'Content-Type: application/json' -XGET '127.0.0.1:9200/shakespeare/_sear
 }'
 
 # Mapping and Indexing MovieLens Data
+
+### Create mapping for movie document index
+
+PUT - http://127.0.0.1:9200/movies
+
+```json
+{
+	"mappings" : {
+		"properties" : {
+			"year" : {
+				"type" : "date"
+			}
+		}
+	}
+}
+```
+
+GET - http://127.0.0.1:9200/movies/_mapping to check if the mapping is created.
+
