@@ -1,0 +1,1056 @@
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "1" } }
+{ "id": "1", "title": "Toy Story", "year":1995, "genre":["Adventure","Animation","Children","Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "2" } }
+{ "id": "2", "title": "Jumanji", "year":1995, "genre":["Adventure","Children","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "3" } }
+{ "id": "3", "title": "Grumpier Old Men", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "4" } }
+{ "id": "4", "title": "Waiting to Exhale", "year":1995, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "5" } }
+{ "id": "5", "title": "Father of the Bride Part II", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "6" } }
+{ "id": "6", "title": "Heat", "year":1995, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "7" } }
+{ "id": "7", "title": "Sabrina", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "8" } }
+{ "id": "8", "title": "Tom and Huck", "year":1995, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "9" } }
+{ "id": "9", "title": "Sudden Death", "year":1995, "genre":["Action"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "10" } }
+{ "id": "10", "title": "GoldenEye", "year":1995, "genre":["Action","Adventure","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "11" } }
+{ "id": "11", "title": "American President, The", "year":1995, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "12" } }
+{ "id": "12", "title": "Dracula: Dead and Loving It", "year":1995, "genre":["Comedy","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "13" } }
+{ "id": "13", "title": "Balto", "year":1995, "genre":["Adventure","Animation","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "14" } }
+{ "id": "14", "title": "Nixon", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "15" } }
+{ "id": "15", "title": "Cutthroat Island", "year":1995, "genre":["Action","Adventure","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "16" } }
+{ "id": "16", "title": "Casino", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "17" } }
+{ "id": "17", "title": "Sense and Sensibility", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "18" } }
+{ "id": "18", "title": "Four Rooms", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "19" } }
+{ "id": "19", "title": "Ace Ventura: When Nature Calls", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "20" } }
+{ "id": "20", "title": "Money Train", "year":1995, "genre":["Action","Comedy","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "21" } }
+{ "id": "21", "title": "Get Shorty", "year":1995, "genre":["Comedy","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "22" } }
+{ "id": "22", "title": "Copycat", "year":1995, "genre":["Crime","Drama","Horror","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "23" } }
+{ "id": "23", "title": "Assassins", "year":1995, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "24" } }
+{ "id": "24", "title": "Powder", "year":1995, "genre":["Drama","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "25" } }
+{ "id": "25", "title": "Leaving Las Vegas", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "26" } }
+{ "id": "26", "title": "Othello", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "27" } }
+{ "id": "27", "title": "Now and Then", "year":1995, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "28" } }
+{ "id": "28", "title": "Persuasion", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "29" } }
+{ "id": "29", "title": "City of Lost Children, The", "year":1995, "genre":["Adventure","Drama","Fantasy","Mystery","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "30" } }
+{ "id": "30", "title": "Shanghai Triad", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "31" } }
+{ "id": "31", "title": "Dangerous Minds", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "32" } }
+{ "id": "32", "title": "Twelve Monkeys", "year":1995, "genre":["Mystery","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "34" } }
+{ "id": "34", "title": "Babe", "year":1995, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "36" } }
+{ "id": "36", "title": "Dead Man Walking", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "38" } }
+{ "id": "38", "title": "It Takes Two", "year":1995, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "39" } }
+{ "id": "39", "title": "Clueless", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "40" } }
+{ "id": "40", "title": "Cry, the Beloved Country", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "41" } }
+{ "id": "41", "title": "Richard III", "year":1995, "genre":["Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "42" } }
+{ "id": "42", "title": "Dead Presidents", "year":1995, "genre":["Action","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "43" } }
+{ "id": "43", "title": "Restoration", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "44" } }
+{ "id": "44", "title": "Mortal Kombat", "year":1995, "genre":["Action","Adventure","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "45" } }
+{ "id": "45", "title": "To Die For", "year":1995, "genre":["Comedy","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "46" } }
+{ "id": "46", "title": "How to Make an American Quilt", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "47" } }
+{ "id": "47", "title": "Seven", "year":1995, "genre":["Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "48" } }
+{ "id": "48", "title": "Pocahontas", "year":1995, "genre":["Animation","Children","Drama","Musical","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "49" } }
+{ "id": "49", "title": "When Night Is Falling", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "50" } }
+{ "id": "50", "title": "Usual Suspects, The", "year":1995, "genre":["Crime","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "52" } }
+{ "id": "52", "title": "Mighty Aphrodite", "year":1995, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "53" } }
+{ "id": "53", "title": "Lamerica", "year":1994, "genre":["Adventure","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "54" } }
+{ "id": "54", "title": "Big Green, The", "year":1995, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "55" } }
+{ "id": "55", "title": "Georgia", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "57" } }
+{ "id": "57", "title": "Home for the Holidays", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "58" } }
+{ "id": "58", "title": "Postman, The", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "60" } }
+{ "id": "60", "title": "Indian in the Cupboard, The", "year":1995, "genre":["Adventure","Children","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "61" } }
+{ "id": "61", "title": "Eye for an Eye", "year":1996, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "62" } }
+{ "id": "62", "title": "Mr. Holland's Opus", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "63" } }
+{ "id": "63", "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood", "year":1996, "genre":["Comedy","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "64" } }
+{ "id": "64", "title": "Two if by Sea", "year":1996, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "65" } }
+{ "id": "65", "title": "Bio-Dome", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "66" } }
+{ "id": "66", "title": "Lawnmower Man 2: Beyond Cyberspace", "year":1996, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "68" } }
+{ "id": "68", "title": "French Twist", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "69" } }
+{ "id": "69", "title": "Friday", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "70" } }
+{ "id": "70", "title": "From Dusk Till Dawn", "year":1996, "genre":["Action","Comedy","Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "71" } }
+{ "id": "71", "title": "Fair Game", "year":1995, "genre":["Action"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "72" } }
+{ "id": "72", "title": "Kicking and Screaming", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "73" } }
+{ "id": "73", "title": "Misérables, Les", "year":1995, "genre":["Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "74" } }
+{ "id": "74", "title": "Bed of Roses", "year":1996, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "75" } }
+{ "id": "75", "title": "Big Bully", "year":1996, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "76" } }
+{ "id": "76", "title": "Screamers", "year":1995, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "77" } }
+{ "id": "77", "title": "Nico Icon", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "78" } }
+{ "id": "78", "title": "Crossing Guard, The", "year":1995, "genre":["Action","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "79" } }
+{ "id": "79", "title": "Juror, The", "year":1996, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "80" } }
+{ "id": "80", "title": "White Balloon, The", "year":1995, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "81" } }
+{ "id": "81", "title": "Things to Do in Denver When You're Dead", "year":1995, "genre":["Crime","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "82" } }
+{ "id": "82", "title": "Antonia's Line", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "83" } }
+{ "id": "83", "title": "Once Upon a Time... When We Were Colored", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "85" } }
+{ "id": "85", "title": "Angels and Insects", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "86" } }
+{ "id": "86", "title": "White Squall", "year":1996, "genre":["Action","Adventure","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "87" } }
+{ "id": "87", "title": "Dunston Checks In", "year":1996, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "88" } }
+{ "id": "88", "title": "Black Sheep", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "89" } }
+{ "id": "89", "title": "Nick of Time", "year":1995, "genre":["Action","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "92" } }
+{ "id": "92", "title": "Mary Reilly", "year":1996, "genre":["Drama","Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "93" } }
+{ "id": "93", "title": "Vampire in Brooklyn", "year":1995, "genre":["Comedy","Horror","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "94" } }
+{ "id": "94", "title": "Beautiful Girls", "year":1996, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "95" } }
+{ "id": "95", "title": "Broken Arrow", "year":1996, "genre":["Action","Adventure","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "96" } }
+{ "id": "96", "title": "In the Bleak Midwinter", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "97" } }
+{ "id": "97", "title": "Hate", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "99" } }
+{ "id": "99", "title": "Heidi Fleiss: Hollywood Madam", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "100" } }
+{ "id": "100", "title": "City Hall", "year":1996, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "101" } }
+{ "id": "101", "title": "Bottle Rocket", "year":1996, "genre":["Adventure","Comedy","Crime","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "102" } }
+{ "id": "102", "title": "Mr. Wrong", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "103" } }
+{ "id": "103", "title": "Unforgettable", "year":1996, "genre":["Mystery","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "104" } }
+{ "id": "104", "title": "Happy Gilmore", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "105" } }
+{ "id": "105", "title": "Bridges of Madison County, The", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "106" } }
+{ "id": "106", "title": "Nobody Loves Me", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "107" } }
+{ "id": "107", "title": "Muppet Treasure Island", "year":1996, "genre":["Adventure","Children","Comedy","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "108" } }
+{ "id": "108", "title": "Catwalk", "year":1996, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "110" } }
+{ "id": "110", "title": "Braveheart", "year":1995, "genre":["Action","Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "111" } }
+{ "id": "111", "title": "Taxi Driver", "year":1976, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "112" } }
+{ "id": "112", "title": "Rumble in the Bronx", "year":1995, "genre":["Action","Adventure","Comedy","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "113" } }
+{ "id": "113", "title": "Before and After", "year":1996, "genre":["Drama","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "116" } }
+{ "id": "116", "title": "Anne Frank Remembered", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "117" } }
+{ "id": "117", "title": "Young Poisoner's Handbook, The", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "118" } }
+{ "id": "118", "title": "If Lucy Fell", "year":1996, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "119" } }
+{ "id": "119", "title": "Steal Big, Steal Little", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "121" } }
+{ "id": "121", "title": "Boys of St. Vincent, The", "year":1992, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "122" } }
+{ "id": "122", "title": "Boomerang", "year":1992, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "123" } }
+{ "id": "123", "title": "Chungking Express", "year":1994, "genre":["Drama","Mystery","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "125" } }
+{ "id": "125", "title": "Flirting With Disaster", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "126" } }
+{ "id": "126", "title": "NeverEnding Story III, The", "year":1994, "genre":["Adventure","Children","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "128" } }
+{ "id": "128", "title": "Jupiter's Wife", "year":1994, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "129" } }
+{ "id": "129", "title": "Pie in the Sky", "year":1996, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "132" } }
+{ "id": "132", "title": "Jade", "year":1995, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "135" } }
+{ "id": "135", "title": "Down Periscope", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "137" } }
+{ "id": "137", "title": "Man of the Year", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "140" } }
+{ "id": "140", "title": "Up Close and Personal", "year":1996, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "141" } }
+{ "id": "141", "title": "Birdcage, The", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "144" } }
+{ "id": "144", "title": "Brothers McMullen, The", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "145" } }
+{ "id": "145", "title": "Bad Boys", "year":1995, "genre":["Action","Comedy","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "146" } }
+{ "id": "146", "title": "Amazing Panda Adventure, The", "year":1995, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "147" } }
+{ "id": "147", "title": "Basketball Diaries, The", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "148" } }
+{ "id": "148", "title": "Awfully Big Adventure, An", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "149" } }
+{ "id": "149", "title": "Amateur", "year":1994, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "150" } }
+{ "id": "150", "title": "Apollo 13", "year":1995, "genre":["Adventure","Drama","IMAX"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "151" } }
+{ "id": "151", "title": "Rob Roy", "year":1995, "genre":["Action","Drama","Romance","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "152" } }
+{ "id": "152", "title": "Addiction, The", "year":1995, "genre":["Drama","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "153" } }
+{ "id": "153", "title": "Batman Forever", "year":1995, "genre":["Action","Adventure","Comedy","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "154" } }
+{ "id": "154", "title": "Beauty of the Day", "year":1967, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "155" } }
+{ "id": "155", "title": "Beyond Rangoon", "year":1995, "genre":["Adventure","Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "156" } }
+{ "id": "156", "title": "Blue in the Face", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "157" } }
+{ "id": "157", "title": "Canadian Bacon", "year":1995, "genre":["Comedy","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "158" } }
+{ "id": "158", "title": "Casper", "year":1995, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "159" } }
+{ "id": "159", "title": "Clockers", "year":1995, "genre":["Crime","Drama","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "160" } }
+{ "id": "160", "title": "Congo", "year":1995, "genre":["Action","Adventure","Mystery","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "161" } }
+{ "id": "161", "title": "Crimson Tide", "year":1995, "genre":["Drama","Thriller","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "162" } }
+{ "id": "162", "title": "Crumb", "year":1994, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "163" } }
+{ "id": "163", "title": "Desperado", "year":1995, "genre":["Action","Romance","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "164" } }
+{ "id": "164", "title": "Devil in a Blue Dress", "year":1995, "genre":["Crime","Film-Noir","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "165" } }
+{ "id": "165", "title": "Die Hard: With a Vengeance", "year":1995, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "166" } }
+{ "id": "166", "title": "Doom Generation, The", "year":1995, "genre":["Comedy","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "168" } }
+{ "id": "168", "title": "First Knight", "year":1995, "genre":["Action","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "169" } }
+{ "id": "169", "title": "Free Willy 2: The Adventure Home", "year":1995, "genre":["Adventure","Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "170" } }
+{ "id": "170", "title": "Hackers", "year":1995, "genre":["Action","Adventure","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "171" } }
+{ "id": "171", "title": "Jeffrey", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "172" } }
+{ "id": "172", "title": "Johnny Mnemonic", "year":1995, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "173" } }
+{ "id": "173", "title": "Judge Dredd", "year":1995, "genre":["Action","Crime","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "174" } }
+{ "id": "174", "title": "Jury Duty", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "175" } }
+{ "id": "175", "title": "Kids", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "176" } }
+{ "id": "176", "title": "Living in Oblivion", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "177" } }
+{ "id": "177", "title": "Lord of Illusions", "year":1995, "genre":["Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "178" } }
+{ "id": "178", "title": "Love & Human Remains", "year":1993, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "179" } }
+{ "id": "179", "title": "Mad Love", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "180" } }
+{ "id": "180", "title": "Mallrats", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "181" } }
+{ "id": "181", "title": "Mighty Morphin Power Rangers: The Movie", "year":1995, "genre":["Action","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "183" } }
+{ "id": "183", "title": "Mute Witness", "year":1994, "genre":["Comedy","Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "184" } }
+{ "id": "184", "title": "Nadja", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "185" } }
+{ "id": "185", "title": "Net, The", "year":1995, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "186" } }
+{ "id": "186", "title": "Nine Months", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "187" } }
+{ "id": "187", "title": "Party Girl", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "188" } }
+{ "id": "188", "title": "Prophecy, The", "year":1995, "genre":["Fantasy","Horror","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "189" } }
+{ "id": "189", "title": "Reckless", "year":1995, "genre":["Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "190" } }
+{ "id": "190", "title": "Safe", "year":1995, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "191" } }
+{ "id": "191", "title": "Scarlet Letter, The", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "193" } }
+{ "id": "193", "title": "Showgirls", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "194" } }
+{ "id": "194", "title": "Smoke", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "195" } }
+{ "id": "195", "title": "Something to Talk About", "year":1995, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "196" } }
+{ "id": "196", "title": "Species", "year":1995, "genre":["Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "198" } }
+{ "id": "198", "title": "Strange Days", "year":1995, "genre":["Action","Crime","Drama","Mystery","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "199" } }
+{ "id": "199", "title": "Umbrellas of Cherbourg, The", "year":1964, "genre":["Drama","Musical","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "201" } }
+{ "id": "201", "title": "Three Wishes", "year":1995, "genre":["Drama","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "202" } }
+{ "id": "202", "title": "Total Eclipse", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "203" } }
+{ "id": "203", "title": "To Wong Foo, Thanks for Everything! Julie Newmar", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "204" } }
+{ "id": "204", "title": "Under Siege 2: Dark Territory", "year":1995, "genre":["Action"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "205" } }
+{ "id": "205", "title": "Unstrung Heroes", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "206" } }
+{ "id": "206", "title": "Unzipped", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "207" } }
+{ "id": "207", "title": "Walk in the Clouds, A", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "208" } }
+{ "id": "208", "title": "Waterworld", "year":1995, "genre":["Action","Adventure","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "209" } }
+{ "id": "209", "title": "White Man's Burden", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "210" } }
+{ "id": "210", "title": "Wild Bill", "year":1995, "genre":["Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "211" } }
+{ "id": "211", "title": "Browning Version, The", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "212" } }
+{ "id": "212", "title": "Bushwhacked", "year":1995, "genre":["Adventure","Comedy","Crime","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "213" } }
+{ "id": "213", "title": "Burnt by the Sun", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "214" } }
+{ "id": "214", "title": "Before the Rain", "year":1994, "genre":["Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "215" } }
+{ "id": "215", "title": "Before Sunrise", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "216" } }
+{ "id": "216", "title": "Billy Madison", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "217" } }
+{ "id": "217", "title": "Babysitter, The", "year":1995, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "218" } }
+{ "id": "218", "title": "Boys on the Side", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "219" } }
+{ "id": "219", "title": "Cure, The", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "220" } }
+{ "id": "220", "title": "Castle Freak", "year":1995, "genre":["Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "222" } }
+{ "id": "222", "title": "Circle of Friends", "year":1995, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "223" } }
+{ "id": "223", "title": "Clerks", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "224" } }
+{ "id": "224", "title": "Don Juan DeMarco", "year":1995, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "225" } }
+{ "id": "225", "title": "Disclosure", "year":1994, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "227" } }
+{ "id": "227", "title": "Drop Zone", "year":1994, "genre":["Action","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "228" } }
+{ "id": "228", "title": "Destiny Turns on the Radio", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "229" } }
+{ "id": "229", "title": "Death and the Maiden", "year":1994, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "230" } }
+{ "id": "230", "title": "Dolores Claiborne", "year":1995, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "231" } }
+{ "id": "231", "title": "Dumb & Dumber", "year":1994, "genre":["Adventure","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "232" } }
+{ "id": "232", "title": "Eat Drink Man Woman", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "233" } }
+{ "id": "233", "title": "Exotica", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "234" } }
+{ "id": "234", "title": "Exit to Eden", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "235" } }
+{ "id": "235", "title": "Ed Wood", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "236" } }
+{ "id": "236", "title": "French Kiss", "year":1995, "genre":["Action","Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "237" } }
+{ "id": "237", "title": "Forget Paris", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "238" } }
+{ "id": "238", "title": "Far From Home: The Adventures of Yellow Dog", "year":1995, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "239" } }
+{ "id": "239", "title": "Goofy Movie, A", "year":1995, "genre":["Animation","Children","Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "240" } }
+{ "id": "240", "title": "Hideaway", "year":1995, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "241" } }
+{ "id": "241", "title": "Fluke", "year":1995, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "242" } }
+{ "id": "242", "title": "Farinelli: il castrato", "year":1994, "genre":["Drama","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "243" } }
+{ "id": "243", "title": "Gordy", "year":1995, "genre":["Children","Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "246" } }
+{ "id": "246", "title": "Hoop Dreams", "year":1994, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "247" } }
+{ "id": "247", "title": "Heavenly Creatures", "year":1994, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "248" } }
+{ "id": "248", "title": "Houseguest", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "249" } }
+{ "id": "249", "title": "Immortal Beloved", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "250" } }
+{ "id": "250", "title": "Heavyweights", "year":1995, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "251" } }
+{ "id": "251", "title": "Hunted, The", "year":1995, "genre":["Action"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "252" } }
+{ "id": "252", "title": "I.Q.", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "253" } }
+{ "id": "253", "title": "Interview with the Vampire: The Vampire Chronicles", "year":1994, "genre":["Drama","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "254" } }
+{ "id": "254", "title": "Jefferson in Paris", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "255" } }
+{ "id": "255", "title": "Jerky Boys, The", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "256" } }
+{ "id": "256", "title": "Junior", "year":1994, "genre":["Comedy","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "257" } }
+{ "id": "257", "title": "Just Cause", "year":1995, "genre":["Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "258" } }
+{ "id": "258", "title": "Kid in King Arthur's Court, A", "year":1995, "genre":["Adventure","Children","Comedy","Fantasy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "259" } }
+{ "id": "259", "title": "Kiss of Death", "year":1995, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "260" } }
+{ "id": "260", "title": "Star Wars: Episode IV - A New Hope", "year":1977, "genre":["Action","Adventure","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "261" } }
+{ "id": "261", "title": "Little Women", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "262" } }
+{ "id": "262", "title": "Little Princess, A", "year":1995, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "263" } }
+{ "id": "263", "title": "Ladybird Ladybird", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "265" } }
+{ "id": "265", "title": "Like Water for Chocolate", "year":1992, "genre":["Drama","Fantasy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "266" } }
+{ "id": "266", "title": "Legends of the Fall", "year":1994, "genre":["Drama","Romance","War","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "267" } }
+{ "id": "267", "title": "Major Payne", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "269" } }
+{ "id": "269", "title": "My Crazy Life", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "270" } }
+{ "id": "270", "title": "Love Affair", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "271" } }
+{ "id": "271", "title": "Losing Isaiah", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "272" } }
+{ "id": "272", "title": "Madness of King George, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "273" } }
+{ "id": "273", "title": "Mary Shelley's Frankenstein", "year":1994, "genre":["Drama","Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "274" } }
+{ "id": "274", "title": "Man of the House", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "275" } }
+{ "id": "275", "title": "Mixed Nuts", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "276" } }
+{ "id": "276", "title": "Milk Money", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "277" } }
+{ "id": "277", "title": "Miracle on 34th Street", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "278" } }
+{ "id": "278", "title": "Miami Rhapsody", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "279" } }
+{ "id": "279", "title": "My Family", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "280" } }
+{ "id": "280", "title": "Murder in the First", "year":1995, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "281" } }
+{ "id": "281", "title": "Nobody's Fool", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "282" } }
+{ "id": "282", "title": "Nell", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "283" } }
+{ "id": "283", "title": "New Jersey Drive", "year":1995, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "284" } }
+{ "id": "284", "title": "New York Cop", "year":1993, "genre":["Action","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "285" } }
+{ "id": "285", "title": "Beyond Bedlam", "year":1993, "genre":["Drama","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "287" } }
+{ "id": "287", "title": "Nina Takes a Lover", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "288" } }
+{ "id": "288", "title": "Natural Born Killers", "year":1994, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "289" } }
+{ "id": "289", "title": "Only You", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "290" } }
+{ "id": "290", "title": "Once Were Warriors", "year":1994, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "291" } }
+{ "id": "291", "title": "Poison Ivy II", "year":1996, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "292" } }
+{ "id": "292", "title": "Outbreak", "year":1995, "genre":["Action","Drama","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "293" } }
+{ "id": "293", "title": "Léon: The Professional", "year":1994, "genre":["Action","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "294" } }
+{ "id": "294", "title": "Perez Family, The", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "295" } }
+{ "id": "295", "title": "Pyromaniac's Love Story, A", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "296" } }
+{ "id": "296", "title": "Pulp Fiction", "year":1994, "genre":["Comedy","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "298" } }
+{ "id": "298", "title": "Pushing Hands", "year":1992, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "299" } }
+{ "id": "299", "title": "Priest", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "300" } }
+{ "id": "300", "title": "Quiz Show", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "301" } }
+{ "id": "301", "title": "Picture Bride", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "302" } }
+{ "id": "302", "title": "Queen Margot", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "303" } }
+{ "id": "303", "title": "Quick and the Dead, The", "year":1995, "genre":["Action","Thriller","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "304" } }
+{ "id": "304", "title": "Roommates", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "305" } }
+{ "id": "305", "title": "Ready to Wear", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "306" } }
+{ "id": "306", "title": "Three Colors: Red", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "307" } }
+{ "id": "307", "title": "Three Colors: Blue", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "308" } }
+{ "id": "308", "title": "Three Colors: White", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "310" } }
+{ "id": "310", "title": "Rent-a-Kid", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "311" } }
+{ "id": "311", "title": "Relative Fear", "year":1994, "genre":["Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "312" } }
+{ "id": "312", "title": "Stuart Saves His Family", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "313" } }
+{ "id": "313", "title": "Swan Princess, The", "year":1994, "genre":["Animation","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "314" } }
+{ "id": "314", "title": "Secret of Roan Inish, The", "year":1994, "genre":["Children","Drama","Fantasy","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "315" } }
+{ "id": "315", "title": "Specialist, The", "year":1994, "genre":["Action","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "316" } }
+{ "id": "316", "title": "Stargate", "year":1994, "genre":["Action","Adventure","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "317" } }
+{ "id": "317", "title": "Santa Clause, The", "year":1994, "genre":["Comedy","Drama","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "318" } }
+{ "id": "318", "title": "Shawshank Redemption, The", "year":1994, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "319" } }
+{ "id": "319", "title": "Shallow Grave", "year":1994, "genre":["Comedy","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "320" } }
+{ "id": "320", "title": "Suture", "year":1993, "genre":["Film-Noir","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "321" } }
+{ "id": "321", "title": "Strawberry and Chocolate", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "322" } }
+{ "id": "322", "title": "Swimming with Sharks", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "324" } }
+{ "id": "324", "title": "Sum of Us, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "325" } }
+{ "id": "325", "title": "National Lampoon's Senior Trip", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "326" } }
+{ "id": "326", "title": "To Live", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "327" } }
+{ "id": "327", "title": "Tank Girl", "year":1995, "genre":["Action","Comedy","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "328" } }
+{ "id": "328", "title": "Tales from the Crypt Presents: Demon Knight", "year":1995, "genre":["Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "329" } }
+{ "id": "329", "title": "Star Trek: Generations", "year":1994, "genre":["Adventure","Drama","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "330" } }
+{ "id": "330", "title": "Tales from the Hood", "year":1995, "genre":["Action","Crime","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "331" } }
+{ "id": "331", "title": "Tom & Viv", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "332" } }
+{ "id": "332", "title": "Village of the Damned", "year":1995, "genre":["Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "333" } }
+{ "id": "333", "title": "Tommy Boy", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "334" } }
+{ "id": "334", "title": "Vanya on 42nd Street", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "335" } }
+{ "id": "335", "title": "Underneath", "year":1995, "genre":["Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "336" } }
+{ "id": "336", "title": "Walking Dead, The", "year":1995, "genre":["Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "337" } }
+{ "id": "337", "title": "What's Eating Gilbert Grape", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "338" } }
+{ "id": "338", "title": "Virtuosity", "year":1995, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "339" } }
+{ "id": "339", "title": "While You Were Sleeping", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "340" } }
+{ "id": "340", "title": "War, The", "year":1994, "genre":["Adventure","Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "341" } }
+{ "id": "341", "title": "Double Happiness", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "342" } }
+{ "id": "342", "title": "Muriel's Wedding", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "343" } }
+{ "id": "343", "title": "Baby-Sitters Club, The", "year":1995, "genre":["Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "344" } }
+{ "id": "344", "title": "Ace Ventura: Pet Detective", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "345" } }
+{ "id": "345", "title": "Adventures of Priscilla, Queen of the Desert, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "346" } }
+{ "id": "346", "title": "Backbeat", "year":1993, "genre":["Drama","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "347" } }
+{ "id": "347", "title": "Bitter Moon", "year":1992, "genre":["Drama","Film-Noir","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "348" } }
+{ "id": "348", "title": "Bullets Over Broadway", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "349" } }
+{ "id": "349", "title": "Clear and Present Danger", "year":1994, "genre":["Action","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "350" } }
+{ "id": "350", "title": "Client, The", "year":1994, "genre":["Drama","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "351" } }
+{ "id": "351", "title": "Corrina, Corrina", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "352" } }
+{ "id": "352", "title": "Crooklyn", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "353" } }
+{ "id": "353", "title": "Crow, The", "year":1994, "genre":["Action","Crime","Fantasy","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "354" } }
+{ "id": "354", "title": "Cobb", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "355" } }
+{ "id": "355", "title": "Flintstones, The", "year":1994, "genre":["Children","Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "356" } }
+{ "id": "356", "title": "Forrest Gump", "year":1994, "genre":["Comedy","Drama","Romance","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "357" } }
+{ "id": "357", "title": "Four Weddings and a Funeral", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "358" } }
+{ "id": "358", "title": "Higher Learning", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "359" } }
+{ "id": "359", "title": "I Like It Like That", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "360" } }
+{ "id": "360", "title": "I Love Trouble", "year":1994, "genre":["Action","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "361" } }
+{ "id": "361", "title": "It Could Happen to You", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "362" } }
+{ "id": "362", "title": "Jungle Book, The", "year":1994, "genre":["Adventure","Children","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "363" } }
+{ "id": "363", "title": "Wonderful, Horrible Life of Leni Riefenstahl, The", "year":1993, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "364" } }
+{ "id": "364", "title": "Lion King, The", "year":1994, "genre":["Adventure","Animation","Children","Drama","Musical","IMAX"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "365" } }
+{ "id": "365", "title": "Little Buddha", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "366" } }
+{ "id": "366", "title": "Wes Craven's New Nightmare", "year":1994, "genre":["Drama","Horror","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "367" } }
+{ "id": "367", "title": "Mask, The", "year":1994, "genre":["Action","Comedy","Crime","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "368" } }
+{ "id": "368", "title": "Maverick", "year":1994, "genre":["Adventure","Comedy","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "369" } }
+{ "id": "369", "title": "Mrs. Parker and the Vicious Circle", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "370" } }
+{ "id": "370", "title": "Naked Gun 33 1/3: The Final Insult", "year":1994, "genre":["Action","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "371" } }
+{ "id": "371", "title": "Paper, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "372" } }
+{ "id": "372", "title": "Reality Bites", "year":1994, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "373" } }
+{ "id": "373", "title": "Red Rock West", "year":1992, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "374" } }
+{ "id": "374", "title": "Richie Rich", "year":1994, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "376" } }
+{ "id": "376", "title": "River Wild, The", "year":1994, "genre":["Action","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "377" } }
+{ "id": "377", "title": "Speed", "year":1994, "genre":["Action","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "378" } }
+{ "id": "378", "title": "Speechless", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "379" } }
+{ "id": "379", "title": "Timecop", "year":1994, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "380" } }
+{ "id": "380", "title": "True Lies", "year":1994, "genre":["Action","Adventure","Comedy","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "381" } }
+{ "id": "381", "title": "When a Man Loves a Woman", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "382" } }
+{ "id": "382", "title": "Wolf", "year":1994, "genre":["Drama","Horror","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "383" } }
+{ "id": "383", "title": "Wyatt Earp", "year":1994, "genre":["Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "384" } }
+{ "id": "384", "title": "Bad Company", "year":1995, "genre":["Action","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "385" } }
+{ "id": "385", "title": "Man of No Importance, A", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "386" } }
+{ "id": "386", "title": "S.F.W.", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "387" } }
+{ "id": "387", "title": "Low Down Dirty Shame, A", "year":1994, "genre":["Action","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "388" } }
+{ "id": "388", "title": "Boys Life", "year":1995, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "389" } }
+{ "id": "389", "title": "Colonel Chabert, Le", "year":1994, "genre":["Drama","Romance","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "390" } }
+{ "id": "390", "title": "Faster Pussycat! Kill! Kill!", "year":1965, "genre":["Action","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "391" } }
+{ "id": "391", "title": "Jason's Lyric", "year":1994, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "393" } }
+{ "id": "393", "title": "Street Fighter", "year":1994, "genre":["Action","Adventure","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "405" } }
+{ "id": "405", "title": "Highlander III: The Sorcerer", "year":1994, "genre":["Action","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "406" } }
+{ "id": "406", "title": "Federal Hill", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "407" } }
+{ "id": "407", "title": "In the Mouth of Madness", "year":1995, "genre":["Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "408" } }
+{ "id": "408", "title": "8 Seconds", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "409" } }
+{ "id": "409", "title": "Above the Rim", "year":1994, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "410" } }
+{ "id": "410", "title": "Addams Family Values", "year":1993, "genre":["Children","Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "412" } }
+{ "id": "412", "title": "Age of Innocence, The", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "413" } }
+{ "id": "413", "title": "Airheads", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "414" } }
+{ "id": "414", "title": "Air Up There, The", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "415" } }
+{ "id": "415", "title": "Another Stakeout", "year":1993, "genre":["Comedy","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "416" } }
+{ "id": "416", "title": "Bad Girls", "year":1994, "genre":["Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "417" } }
+{ "id": "417", "title": "Barcelona", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "418" } }
+{ "id": "418", "title": "Being Human", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "419" } }
+{ "id": "419", "title": "Beverly Hillbillies, The", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "420" } }
+{ "id": "420", "title": "Beverly Hills Cop III", "year":1994, "genre":["Action","Comedy","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "421" } }
+{ "id": "421", "title": "Black Beauty", "year":1994, "genre":["Adventure","Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "422" } }
+{ "id": "422", "title": "Blink", "year":1994, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "423" } }
+{ "id": "423", "title": "Blown Away", "year":1994, "genre":["Action","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "424" } }
+{ "id": "424", "title": "Blue Chips", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "425" } }
+{ "id": "425", "title": "Blue Sky", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "426" } }
+{ "id": "426", "title": "Body Snatchers", "year":1993, "genre":["Horror","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "427" } }
+{ "id": "427", "title": "Boxing Helena", "year":1993, "genre":["Drama","Mystery","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "428" } }
+{ "id": "428", "title": "Bronx Tale, A", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "429" } }
+{ "id": "429", "title": "Cabin Boy", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "430" } }
+{ "id": "430", "title": "Calendar Girl", "year":1993, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "431" } }
+{ "id": "431", "title": "Carlito's Way", "year":1993, "genre":["Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "432" } }
+{ "id": "432", "title": "City Slickers II: The Legend of Curly's Gold", "year":1994, "genre":["Adventure","Comedy","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "433" } }
+{ "id": "433", "title": "Clean Slate", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "434" } }
+{ "id": "434", "title": "Cliffhanger", "year":1993, "genre":["Action","Adventure","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "435" } }
+{ "id": "435", "title": "Coneheads", "year":1993, "genre":["Comedy","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "436" } }
+{ "id": "436", "title": "Color of Night", "year":1994, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "437" } }
+{ "id": "437", "title": "Cops and Robbersons", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "438" } }
+{ "id": "438", "title": "Cowboy Way, The", "year":1994, "genre":["Action","Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "440" } }
+{ "id": "440", "title": "Dave", "year":1993, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "441" } }
+{ "id": "441", "title": "Dazed and Confused", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "442" } }
+{ "id": "442", "title": "Demolition Man", "year":1993, "genre":["Action","Adventure","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "444" } }
+{ "id": "444", "title": "Even Cowgirls Get the Blues", "year":1993, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "445" } }
+{ "id": "445", "title": "Fatal Instinct", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "446" } }
+{ "id": "446", "title": "Farewell My Concubine", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "448" } }
+{ "id": "448", "title": "Fearless", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "449" } }
+{ "id": "449", "title": "Fear of a Black Hat", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "450" } }
+{ "id": "450", "title": "With Honors", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "451" } }
+{ "id": "451", "title": "Flesh and Bone", "year":1993, "genre":["Drama","Mystery","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "452" } }
+{ "id": "452", "title": "Widows' Peak", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "453" } }
+{ "id": "453", "title": "For Love or Money", "year":1993, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "454" } }
+{ "id": "454", "title": "Firm, The", "year":1993, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "455" } }
+{ "id": "455", "title": "Free Willy", "year":1993, "genre":["Adventure","Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "456" } }
+{ "id": "456", "title": "Fresh", "year":1994, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "457" } }
+{ "id": "457", "title": "Fugitive, The", "year":1993, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "458" } }
+{ "id": "458", "title": "Geronimo: An American Legend", "year":1993, "genre":["Drama","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "459" } }
+{ "id": "459", "title": "Getaway, The", "year":1994, "genre":["Action","Adventure","Crime","Drama","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "460" } }
+{ "id": "460", "title": "Getting Even with Dad", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "461" } }
+{ "id": "461", "title": "Go Fish", "year":1994, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "464" } }
+{ "id": "464", "title": "Hard Target", "year":1993, "genre":["Action","Adventure","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "466" } }
+{ "id": "466", "title": "Hot Shots! Part Deux", "year":1993, "genre":["Action","Comedy","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "467" } }
+{ "id": "467", "title": "Live Nude Girls", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "468" } }
+{ "id": "468", "title": "Englishman Who Went Up a Hill But Came Down a Mountain, The", "year":1995, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "469" } }
+{ "id": "469", "title": "House of the Spirits, The", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "470" } }
+{ "id": "470", "title": "House Party 3", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "471" } }
+{ "id": "471", "title": "Hudsucker Proxy, The", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "472" } }
+{ "id": "472", "title": "I'll Do Anything", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "473" } }
+{ "id": "473", "title": "In the Army Now", "year":1994, "genre":["Comedy","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "474" } }
+{ "id": "474", "title": "In the Line of Fire", "year":1993, "genre":["Action","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "475" } }
+{ "id": "475", "title": "In the Name of the Father", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "476" } }
+{ "id": "476", "title": "Inkwell, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "477" } }
+{ "id": "477", "title": "What's Love Got to Do with It?", "year":1993, "genre":["Drama","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "478" } }
+{ "id": "478", "title": "Jimmy Hollywood", "year":1994, "genre":["Comedy","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "479" } }
+{ "id": "479", "title": "Judgment Night", "year":1993, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "480" } }
+{ "id": "480", "title": "Jurassic Park", "year":1993, "genre":["Action","Adventure","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "481" } }
+{ "id": "481", "title": "Kalifornia", "year":1993, "genre":["Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "482" } }
+{ "id": "482", "title": "Killing Zoe", "year":1994, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "484" } }
+{ "id": "484", "title": "Lassie", "year":1994, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "485" } }
+{ "id": "485", "title": "Last Action Hero", "year":1993, "genre":["Action","Adventure","Comedy","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "486" } }
+{ "id": "486", "title": "Life with Mikey", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "487" } }
+{ "id": "487", "title": "Lightning Jack", "year":1994, "genre":["Comedy","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "488" } }
+{ "id": "488", "title": "M. Butterfly", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "489" } }
+{ "id": "489", "title": "Made in America", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "490" } }
+{ "id": "490", "title": "Malice", "year":1993, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "491" } }
+{ "id": "491", "title": "Man Without a Face, The", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "492" } }
+{ "id": "492", "title": "Manhattan Murder Mystery", "year":1993, "genre":["Comedy","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "493" } }
+{ "id": "493", "title": "Menace II Society", "year":1993, "genre":["Action","Crime","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "494" } }
+{ "id": "494", "title": "Executive Decision", "year":1996, "genre":["Action","Adventure","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "495" } }
+{ "id": "495", "title": "In the Realm of the Senses", "year":1976, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "496" } }
+{ "id": "496", "title": "What Happened Was...", "year":1994, "genre":["Comedy","Drama","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "497" } }
+{ "id": "497", "title": "Much Ado About Nothing", "year":1993, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "499" } }
+{ "id": "499", "title": "Mr. Wonderful", "year":1993, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "500" } }
+{ "id": "500", "title": "Mrs. Doubtfire", "year":1993, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "501" } }
+{ "id": "501", "title": "Naked", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "502" } }
+{ "id": "502", "title": "Next Karate Kid, The", "year":1994, "genre":["Action","Children","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "504" } }
+{ "id": "504", "title": "No Escape", "year":1994, "genre":["Action","Drama","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "505" } }
+{ "id": "505", "title": "North", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "506" } }
+{ "id": "506", "title": "Orlando", "year":1992, "genre":["Drama","Fantasy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "507" } }
+{ "id": "507", "title": "Perfect World, A", "year":1993, "genre":["Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "508" } }
+{ "id": "508", "title": "Philadelphia", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "509" } }
+{ "id": "509", "title": "Piano, The", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "510" } }
+{ "id": "510", "title": "Poetic Justice", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "511" } }
+{ "id": "511", "title": "Program, The", "year":1993, "genre":["Action","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "512" } }
+{ "id": "512", "title": "Puppet Masters, The", "year":1994, "genre":["Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "513" } }
+{ "id": "513", "title": "Radioland Murders", "year":1994, "genre":["Comedy","Mystery","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "514" } }
+{ "id": "514", "title": "Ref, The", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "515" } }
+{ "id": "515", "title": "Remains of the Day, The", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "516" } }
+{ "id": "516", "title": "Renaissance Man", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "517" } }
+{ "id": "517", "title": "Rising Sun", "year":1993, "genre":["Action","Drama","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "518" } }
+{ "id": "518", "title": "Road to Wellville, The", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "519" } }
+{ "id": "519", "title": "RoboCop 3", "year":1993, "genre":["Action","Crime","Drama","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "520" } }
+{ "id": "520", "title": "Robin Hood: Men in Tights", "year":1993, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "521" } }
+{ "id": "521", "title": "Romeo Is Bleeding", "year":1993, "genre":["Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "522" } }
+{ "id": "522", "title": "Romper Stomper", "year":1992, "genre":["Action","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "523" } }
+{ "id": "523", "title": "Ruby in Paradise", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "524" } }
+{ "id": "524", "title": "Rudy", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "526" } }
+{ "id": "526", "title": "Savage Nights", "year":1992, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "527" } }
+{ "id": "527", "title": "Schindler's List", "year":1993, "genre":["Drama","War"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "528" } }
+{ "id": "528", "title": "Scout, The", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "529" } }
+{ "id": "529", "title": "Searching for Bobby Fischer", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "531" } }
+{ "id": "531", "title": "Secret Garden, The", "year":1993, "genre":["Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "532" } }
+{ "id": "532", "title": "Serial Mom", "year":1994, "genre":["Comedy","Crime","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "533" } }
+{ "id": "533", "title": "Shadow, The", "year":1994, "genre":["Action","Adventure","Fantasy","Mystery"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "534" } }
+{ "id": "534", "title": "Shadowlands", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "535" } }
+{ "id": "535", "title": "Short Cuts", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "536" } }
+{ "id": "536", "title": "Simple Twist of Fate, A", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "537" } }
+{ "id": "537", "title": "Sirens", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "538" } }
+{ "id": "538", "title": "Six Degrees of Separation", "year":1993, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "539" } }
+{ "id": "539", "title": "Sleepless in Seattle", "year":1993, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "540" } }
+{ "id": "540", "title": "Sliver", "year":1993, "genre":["Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "541" } }
+{ "id": "541", "title": "Blade Runner", "year":1982, "genre":["Action","Sci-Fi","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "542" } }
+{ "id": "542", "title": "Son in Law", "year":1993, "genre":["Comedy","Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "543" } }
+{ "id": "543", "title": "So I Married an Axe Murderer", "year":1993, "genre":["Comedy","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "544" } }
+{ "id": "544", "title": "Striking Distance", "year":1993, "genre":["Action","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "546" } }
+{ "id": "546", "title": "Super Mario Bros.", "year":1993, "genre":["Action","Adventure","Children","Comedy","Fantasy","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "547" } }
+{ "id": "547", "title": "Surviving the Game", "year":1994, "genre":["Action","Adventure","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "548" } }
+{ "id": "548", "title": "Terminal Velocity", "year":1994, "genre":["Action","Mystery","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "549" } }
+{ "id": "549", "title": "Thirty-Two Short Films About Glenn Gould", "year":1993, "genre":["Drama","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "550" } }
+{ "id": "550", "title": "Threesome", "year":1994, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "551" } }
+{ "id": "551", "title": "Nightmare Before Christmas, The", "year":1993, "genre":["Animation","Children","Fantasy","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "552" } }
+{ "id": "552", "title": "Three Musketeers, The", "year":1993, "genre":["Action","Adventure","Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "553" } }
+{ "id": "553", "title": "Tombstone", "year":1993, "genre":["Action","Drama","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "555" } }
+{ "id": "555", "title": "True Romance", "year":1993, "genre":["Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "556" } }
+{ "id": "556", "title": "War Room, The", "year":1993, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "558" } }
+{ "id": "558", "title": "Pagemaster, The", "year":1994, "genre":["Action","Adventure","Animation","Children","Fantasy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "562" } }
+{ "id": "562", "title": "Welcome to the Dollhouse", "year":1995, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "563" } }
+{ "id": "563", "title": "Germinal", "year":1993, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "564" } }
+{ "id": "564", "title": "Chasers", "year":1994, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "567" } }
+{ "id": "567", "title": "Kika", "year":1993, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "568" } }
+{ "id": "568", "title": "Bhaji on the Beach", "year":1993, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "569" } }
+{ "id": "569", "title": "Little Big League", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "573" } }
+{ "id": "573", "title": "Ciao, Professore!", "year":1992, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "574" } }
+{ "id": "574", "title": "Spanking the Monkey", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "575" } }
+{ "id": "575", "title": "Little Rascals, The", "year":1994, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "577" } }
+{ "id": "577", "title": "Andre", "year":1994, "genre":["Adventure","Children","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "579" } }
+{ "id": "579", "title": "Escort, The", "year":1993, "genre":["Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "580" } }
+{ "id": "580", "title": "Princess Caraboo", "year":1994, "genre":["Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "581" } }
+{ "id": "581", "title": "Celluloid Closet, The", "year":1995, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "583" } }
+{ "id": "583", "title": "Dear Diary", "year":1994, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "585" } }
+{ "id": "585", "title": "Brady Bunch Movie, The", "year":1995, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "586" } }
+{ "id": "586", "title": "Home Alone", "year":1990, "genre":["Children","Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "587" } }
+{ "id": "587", "title": "Ghost", "year":1990, "genre":["Comedy","Drama","Fantasy","Romance","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "588" } }
+{ "id": "588", "title": "Aladdin", "year":1992, "genre":["Adventure","Animation","Children","Comedy","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "589" } }
+{ "id": "589", "title": "Terminator 2: Judgment Day", "year":1991, "genre":["Action","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "590" } }
+{ "id": "590", "title": "Dances with Wolves", "year":1990, "genre":["Adventure","Drama","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "592" } }
+{ "id": "592", "title": "Batman", "year":1989, "genre":["Action","Crime","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "593" } }
+{ "id": "593", "title": "Silence of the Lambs, The", "year":1991, "genre":["Crime","Horror","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "594" } }
+{ "id": "594", "title": "Snow White and the Seven Dwarfs", "year":1937, "genre":["Animation","Children","Drama","Fantasy","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "595" } }
+{ "id": "595", "title": "Beauty and the Beast", "year":1991, "genre":["Animation","Children","Fantasy","Musical","Romance","IMAX"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "596" } }
+{ "id": "596", "title": "Pinocchio", "year":1940, "genre":["Animation","Children","Fantasy","Musical"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "597" } }
+{ "id": "597", "title": "Pretty Woman", "year":1990, "genre":["Comedy","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "599" } }
+{ "id": "599", "title": "Wild Bunch, The", "year":1969, "genre":["Adventure","Western"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "600" } }
+{ "id": "600", "title": "Love and a .45", "year":1994, "genre":["Action","Comedy","Crime"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "602" } }
+{ "id": "602", "title": "Great Day in Harlem, A", "year":1994, "genre":["Documentary"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "605" } }
+{ "id": "605", "title": "One Fine Day", "year":1996, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "606" } }
+{ "id": "606", "title": "Candyman: Farewell to the Flesh", "year":1995, "genre":["Fantasy","Horror"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "608" } }
+{ "id": "608", "title": "Fargo", "year":1996, "genre":["Comedy","Crime","Drama","Thriller"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "609" } }
+{ "id": "609", "title": "Homeward Bound II: Lost in San Francisco", "year":1996, "genre":["Adventure","Children"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "610" } }
+{ "id": "610", "title": "Heavy Metal", "year":1981, "genre":["Action","Adventure","Animation","Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "611" } }
+{ "id": "611", "title": "Hellraiser: Bloodline", "year":1996, "genre":["Action","Horror","Sci-Fi"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "612" } }
+{ "id": "612", "title": "Pallbearer, The", "year":1996, "genre":["Comedy"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "613" } }
+{ "id": "613", "title": "Jane Eyre", "year":1996, "genre":["Drama","Romance"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "615" } }
+{ "id": "615", "title": "Bread and Chocolate", "year":1973, "genre":["Comedy","Drama"] }
+{ "create" : { "_index": "movies", "_type": "movie", "_id" : "616" } }
+{ "id": "616", "title": "Aristocats, The", "year":1970, "genre":["Animation","Children"] }

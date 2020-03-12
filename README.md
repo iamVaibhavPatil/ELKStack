@@ -110,4 +110,3 @@ PUT - http://127.0.0.1:9200/movies
 ```
 
 GET - http://127.0.0.1:9200/movies/_mapping to check if the mapping is created.
-
